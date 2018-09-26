@@ -1,1 +1,33 @@
-/* Add your CSS here */
+html:
+{
+	display: block;
+}
+h1
+{
+	font-size: 32px;
+	font-weight: 400;
+	margin-bottom: 20px;
+}
+h2
+{
+	display: block;
+}
+.textabout
+{
+	color: black;
+	margin-left: 15%;
+	margin-top: 0px;
+}
+body
+{
+	display: block;
+	background-color: white;
+	margin: 0px 0px 0px 0px
+	width: 284px;
+}
+.sidenav
+{
+	margin-top: 25px;
+	color: black;
+	float: left;
+}

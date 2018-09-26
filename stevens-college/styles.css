@@ -1,1 +1,24 @@
-/* Add your CSS here */
+h1
+{
+width: 50%;
+font-size: 4em;
+
+}
+
+.button
+{
+	margin-top: 30px;
+	margin-left: 100px;
+}
+.btn
+{
+	border: 1px solid #a6093d;
+	padding: 5px 20px;
+	background: #a6093d;
+	color: white;
+	text-decoration: none;
+	margin-right: 10px;
+	font-size: 15px;
+	text-transform: uppercase;
+	text-align: center;
+}
